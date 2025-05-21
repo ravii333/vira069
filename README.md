@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Ravi Kumar</h1>
-<h3 align="center">A passionate Java full stack developer from India</h3>
+<h3 align="center">A passionate Software developer from India</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=vira069&label=Profile%20views&color=0e75b6&style=flat" alt="vira069" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=ravii333&label=Profile%20views&color=0e75b6&style=flat" alt="ravii333" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=vira069" alt="vira069" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ravii333" alt="ravii333" /></a> </p>
 
 - 🌱 I’m currently learning **MERN stack**
 
